@@ -24,6 +24,13 @@ Rysuje wykresy oryginalnego sygnału w dziedzinie czasu.
 Rysuje wykresy interpolowanego sygnału w dziedzinie czasu.
 Rysuje wykres modułu wartości transformaty Fouriera interpolowanego sygnału w dziedzinie częstotliwości.
 
+## Przykładowe wyniki
+
+### <strong> Sygnał w dziedzinie czasu </strong>
 ![fft](./img/fft.png)
+
+### <strong> Interpolowany sygnał w dziedzinie czasu </strong>
 ![Figure_1](./img/Figure_1.png)
+
+### <strong> Widmo częstotliwościowe interpolowanego sygnału </strong>
 ![Figure_2](./img/Figure_2.png)
