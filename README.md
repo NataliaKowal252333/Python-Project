@@ -4,3 +4,4 @@ This is my master thesis
 > [!IMPORTANT] 
 > Joint analysis of slow waves and pulse waveform of intracranial pressure
 
+![fft](./img/fft.png)
