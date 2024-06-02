@@ -4,9 +4,18 @@ Ten projekt w Pythonie przetwarza sygnały zapisane w pliku .pkl, interpoluje je
 ## Wymagania
 Aby uruchomić ten kod, potrzebujesz następujących bibliotek Python:
 - pickle
-- pathlib
 - matplotlib
 - numpy
+
+Możesz zainstalować brakujące biblioteki za pomocą pip:
+
+  pip install matplotlib num
+
+## Instrukcje użytkowania
+Upewnij się, że masz plik 2aHc688_ICP.pkl w katalogu data.
+Uruchom skrypt Pythona:
+
+  python main.py
 
 ## Opis działania skryptu
 <strong>1. Ładowanie danych:</strong>
